@@ -1,0 +1,10 @@
+
+
+*******************************************************************************
+Sun Oct 23 17:50:25 2016
+
+
+FIT:    data read from "fib.txt" using 1:(log($2))
+        format = x:z
+BREAK:          No data to fit 
+

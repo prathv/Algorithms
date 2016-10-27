@@ -1,0 +1,12 @@
+time taken for insert heap is 
+0.0000109673
+time taken fo heapify is
+0.0000050068
+ for sorted list, time taken for insert heap is
+0.0000069141
+for sorted list time taken for heapify is
+0.0000050068
+for reverse sorted list, time taken to insert is
+0.0000069141
+for sorted list time taken for heapify is
+0.0000050068
